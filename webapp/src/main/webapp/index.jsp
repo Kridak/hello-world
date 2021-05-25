@@ -5,4 +5,4 @@
 <h2> Deploying on A VM </h2>
 <h3> Fmull Tomcatbaazi </h3>
 <h2> Deploying On Container Using Ansible </h2>
-<h1> Chala Ja Bsdk </h1>
+<h1> Deploying on Ansible Using Playbooks </h1>
